@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D017DE322725A5FF00AF924A /* Item-CoreDataHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = D017DE312725A5FF00AF924A /* Item-CoreDataHelpers.swift */; };
+		D017DE342725A75C00AF924A /* Project-CoreDataHelpers.swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D017DE332725A75C00AF924A /* Project-CoreDataHelpers.swift.swift */; };
 		D018EEAD2717625B00787340 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D018EEAC2717625B00787340 /* HomeView.swift */; };
 		D018EEAF271763F400787340 /* ProjectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D018EEAE271763F400787340 /* ProjectsView.swift */; };
 		D07288372716119B00C630CA /* UltimatePortfolioApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07288362716119B00C630CA /* UltimatePortfolioApp.swift */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D017DE312725A5FF00AF924A /* Item-CoreDataHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Item-CoreDataHelpers.swift"; sourceTree = "<group>"; };
+		D017DE332725A75C00AF924A /* Project-CoreDataHelpers.swift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Project-CoreDataHelpers.swift.swift"; sourceTree = "<group>"; };
 		D018EEAC2717625B00787340 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		D018EEAE271763F400787340 /* ProjectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectsView.swift; sourceTree = "<group>"; };
 		D07288332716119B00C630CA /* UltimatePortfolio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UltimatePortfolio.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -69,6 +73,8 @@
 				D07288492716257100C630CA /* Info.plist */,
 				D07288362716119B00C630CA /* UltimatePortfolioApp.swift */,
 				D07288382716119B00C630CA /* ContentView.swift */,
+				D017DE312725A5FF00AF924A /* Item-CoreDataHelpers.swift */,
+				D017DE332725A75C00AF924A /* Project-CoreDataHelpers.swift.swift */,
 				D07288442716165300C630CA /* Main.xcdatamodeld */,
 				D072884727161A3B00C630CA /* DataController.swift */,
 				D018EEAC2717625B00787340 /* HomeView.swift */,
@@ -168,9 +174,11 @@
 				D07288392716119B00C630CA /* ContentView.swift in Sources */,
 				D072884827161A3B00C630CA /* DataController.swift in Sources */,
 				D018EEAD2717625B00787340 /* HomeView.swift in Sources */,
+				D017DE342725A75C00AF924A /* Project-CoreDataHelpers.swift.swift in Sources */,
 				D07288372716119B00C630CA /* UltimatePortfolioApp.swift in Sources */,
 				D018EEAF271763F400787340 /* ProjectsView.swift in Sources */,
 				D07288462716165300C630CA /* Main.xcdatamodeld in Sources */,
+				D017DE322725A5FF00AF924A /* Item-CoreDataHelpers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
